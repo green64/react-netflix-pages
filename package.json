@@ -1,0 +1,26 @@
+{
+  "name": "react-netflix-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "package-lock.json": "^1.0.0",
+    "react": "^17.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/green64/react-netflix-pages.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/green64/react-netflix-pages/issues"
+  },
+  "homepage": "https://github.com/green64/react-netflix-pages#readme"
+}
