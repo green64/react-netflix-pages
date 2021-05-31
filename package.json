@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "package-lock.json": "^1.0.0",
     "react": "^17.0.2"
   },
